@@ -1,0 +1,9 @@
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\bin\Debug\netcoreapp3.1\Products.Infrastructure.deps.json
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\bin\Debug\netcoreapp3.1\Products.Infrastructure.dll
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\bin\Debug\netcoreapp3.1\Products.Infrastructure.pdb
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.AssemblyInfo.cs
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.dll
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Products.Infrastructure\obj\Debug\netcoreapp3.1\Products.Infrastructure.pdb

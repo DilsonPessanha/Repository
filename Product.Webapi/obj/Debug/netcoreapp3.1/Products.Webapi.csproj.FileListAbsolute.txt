@@ -68,3 +68,4 @@ C:\Users\dilson.pessanha\source\repos\ProductCrud\Product.Webapi\obj\Debug\netco
 C:\Users\dilson.pessanha\source\repos\ProductCrud\Product.Webapi\obj\Debug\netcoreapp3.1\Products.Webapi.dll
 C:\Users\dilson.pessanha\source\repos\ProductCrud\Product.Webapi\obj\Debug\netcoreapp3.1\Products.Webapi.pdb
 C:\Users\dilson.pessanha\source\repos\ProductCrud\Product.Webapi\obj\Debug\netcoreapp3.1\Products.Webapi.genruntimeconfig.cache
+C:\Users\dilson.pessanha\source\repos\ProductCrud\Product.Webapi\obj\Debug\netcoreapp3.1\Products.Webapi.GeneratedMSBuildEditorConfig.editorconfig
